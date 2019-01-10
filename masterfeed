@@ -180,7 +180,7 @@
 		"URL_MORE_APPS_LINK": "https://timesofindia.indiatimes.com/feeds/applist.cms?platform=android&version=<version>&andver=530",
 		"URL_PHOTO": "https://timesofindia.indiatimes.com/photo.cms?photoid=<photoid>",
 		"URL_PRIVACY_POLICY": "http://m.timesofindia.com/androidprivacypolicy.cms?frmapp=yes",
-		"URL_SECTIONS_ALL": "https://timesofindia.indiatimes.com/feeds/testfeedurllist4.cms?ts=1521644165000&platform=android&feedtype=sjson&andver=530",
+		"URL_SECTIONS_ALL": "https://raw.githubusercontent.com/ronitsinghal/android-feeds/master/feed-urllist",
 		"HOME_PHOTOS_WIDGET": "https://photogallery.indiatimes.com/feeds/testcombinedfeed.cms?feedtype=sjson&andver=530&amp;platform=android&amp;reqfrm=masterfeed",
 		"URL_TERMS_OF_USE": "http://m.timesofindia.com/androidtermsofuse.cms?frmapp=yes",
 		"URL_THUMB": "https://static.toiimg.com/thumb.cms?photoid=<photoid>",
