@@ -1,1 +1,28 @@
-test
+{
+pg: {
+tr: "26",
+pp: "30",
+tp: "1",
+cp: "1"
+},
+ads: {
+header: "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+footer: "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+ctnheader: "324379",
+ctnfooter: "324387",
+videoadshow: "https://pubads.g.doubleclick.net/gampad/ads?iu=/7176/TOI_App_Android/TOI_App_AOS_Videos/TOI_App_AOS_VDO_Video&description_url=[placeholder]&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=300x400|320x240|320x480|400x300|400x315|420x315|480x320&unviewed_position_start=1",
+securl: "http://m.timesofindia.com/"
+},
+items: [
+{
+id: "1234567",
+tn: "allstatepie",
+defaulturl: "http://toibnews.timesofindia.indiatimes.com/Election/election2017_test_ios_aos_app_electionhome_widget.htm"
+},
+
+{
+id: "196579",
+tn: "newslistdAd",
+pos: "1-51396865-2"
+}
+}
