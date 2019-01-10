@@ -9,6 +9,16 @@
 			"secid": "51396865"
 		},
 		{
+			"name": "CTN-AD",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/android-feeds/master/ctn-ad-feed",
+			"tn": "mixed",
+			"uid": "CTN-01",
+			"ct": "3",
+			"IsPinned": "true",
+			"secid": "51396865"
+		},
+		
+		{
 			"name": "PrimeList",
 			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-60478120,tag-alrt,uid-PrimeTest-01.cms?platform=android&andver=530&adreqfrm=sec",
 			"tn": "mixed",
