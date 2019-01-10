@@ -16,19 +16,73 @@ securl: "http://m.timesofindia.com/"
 items: [
 {
 id: "207018",
-tn: "newslistdAd",
+tn: "COLOMBIA_ATF_BTF_320X50_CONTENT",
 pos: "1-51396865-1"
 },
 {
 id: "317757",
-tn: "newslistdAd",
+tn: "COLOMBIA_ATF_BTF_320X50_APP",
 pos: "1-51396865-2"
 },
 {
 id: "324645",
-tn: "newslistdAd",
+tn: "COLOMBIA_ATF_BTF_320X50_IMAGE_BANNER",
 pos: "1-51396865-3"
+},
+{
+id: "297495",
+tn: "COLOMBIA_ATF_BTF_320X50_FACEBOOK",
+pos: "1-51396865-4"
+},
+{
+id: "297494",
+tn: "COLOMBIA_ATF_BTF_320X50_GOOGLE",
+pos: "1-51396865-5"
+},
+{
+id: "297498",
+tn: "COLOMBIA_ATF_BTF_320X50_CRITIO",
+pos: "1-51396865-6"
+},
+{
+id: "207018",
+tn: "COLOMBIA_ATF_BTF_320X50_CONTENT",
+pos: "1-51396865-7"
+},
+{
+id: "317757",
+tn: "COLOMBIA_MREC_320X250_APP",
+pos: "1-51396865-8"
+},
+{
+id: "324644",
+tn: "COLOMBIA_MREC_320X250_IMAGE_BANNER",
+pos: "1-51396865-9"
+},
+{
+id: "129994",
+tn: "COLOMBIA_MREC_320X250_LEADGEN",
+pos: "1-51396865-10"
+},
+{
+id: "129993",
+tn: "COLOMBIA_MREC_320X250_VIDEO",
+pos: "1-51396865-11"
+},
+{
+id: "297495",
+tn: "COLOMBIA_MREC_320X250_FACEBOOK",
+pos: "1-51396865-12"
+},
+{
+id: "297494",
+tn: "COLOMBIA_MREC_320X250_GOOGLE",
+pos: "1-51396865-13"
+},
+{
+id: "297498",
+tn: "COLOMBIA_MREC_320X250_CRITO",
+pos: "1-51396865-14"
 }
-
 ]
 }
