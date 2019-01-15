@@ -7,7 +7,26 @@
 		},
 		"nc_ads": {
 			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1"
-		}
+		},
+		"inlinefullscreen": [{
+				"adcode": "324744",
+				"publisher": "CTN",
+				"type": "articleshow",
+				"screencount": "5"
+			},
+			{
+				"adcode": "",
+				"publisher": "CTN",
+				"type": "brieffullscreen",
+				"screencount": "5"
+			},
+			{
+				"adcode": "",
+				"publisher": "CTN",
+				"type": "photosfullscreen",
+				"screencount": "5"
+			}
+		]
 	},
 	"switch": {
 		"isSeqDFPAdsEnabled": false,
