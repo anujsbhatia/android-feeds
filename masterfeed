@@ -29,6 +29,8 @@
 		]
 	},
 	"switch": {
+		"isDFPFallbackEnabled": true,
+		"isDFPProductHooksEnabled": true,
 		"isSeqDFPAdsEnabled": false,
 		"isPersonalizationEnabled": true,
 		"isAppIndexingEnabled": false,
